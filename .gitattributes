@@ -1,0 +1,61 @@
+gen_ads/bart-base-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.lfs filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.h5 filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.tflite filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.ot filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.onnx filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.arrow filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.ftz filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.joblib filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.model filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.msgpack filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.pb filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.pt filter=lfs diff=lfs merge=lfs -text
+gen_ads/bart-base-chinese-cluecorpussmall/*.pth filter=lfs diff=lfs merge=lfs -text
+
+
+gen_ads/gpt2-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.lfs filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.h5 filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.tflite filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.ot filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.onnx filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.arrow filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.ftz filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.joblib filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.model filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.msgpack filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.pb filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.pt filter=lfs diff=lfs merge=lfs -text
+gen_ads/gpt2-chinese-cluecorpussmall/*.pth filter=lfs diff=lfs merge=lfs -text
+
+
+
+sentiment_analysis/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.lfs filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.h5 filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.tflite filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.ot filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.onnx filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis/bert-base-chinese/*.msgpack filter=lfs diff=lfs merge=lfs -text
+
+
+
+
+
+
+text_cls/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.lfs filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.h5 filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.tflite filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.ot filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.onnx filter=lfs diff=lfs merge=lfs -text
+text_cls/bert-base-chinese/*.msgpack filter=lfs diff=lfs merge=lfs -text
