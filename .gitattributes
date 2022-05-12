@@ -14,8 +14,6 @@ gen_ads/bart-base-chinese-cluecorpussmall/*.msgpack filter=lfs diff=lfs merge=lf
 gen_ads/bart-base-chinese-cluecorpussmall/*.pb filter=lfs diff=lfs merge=lfs -text
 gen_ads/bart-base-chinese-cluecorpussmall/*.pt filter=lfs diff=lfs merge=lfs -text
 gen_ads/bart-base-chinese-cluecorpussmall/*.pth filter=lfs diff=lfs merge=lfs -text
-
-
 gen_ads/gpt2-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
 gen_ads/gpt2-chinese-cluecorpussmall/*.lfs filter=lfs diff=lfs merge=lfs -text
 gen_ads/gpt2-chinese-cluecorpussmall/*.bin filter=lfs diff=lfs merge=lfs -text
@@ -32,9 +30,6 @@ gen_ads/gpt2-chinese-cluecorpussmall/*.msgpack filter=lfs diff=lfs merge=lfs -te
 gen_ads/gpt2-chinese-cluecorpussmall/*.pb filter=lfs diff=lfs merge=lfs -text
 gen_ads/gpt2-chinese-cluecorpussmall/*.pt filter=lfs diff=lfs merge=lfs -text
 gen_ads/gpt2-chinese-cluecorpussmall/*.pth filter=lfs diff=lfs merge=lfs -text
-
-
-
 sentiment_analysis/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
 sentiment_analysis/bert-base-chinese/*.lfs filter=lfs diff=lfs merge=lfs -text
 sentiment_analysis/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
@@ -44,12 +39,6 @@ sentiment_analysis/bert-base-chinese/*.tar.gz filter=lfs diff=lfs merge=lfs -tex
 sentiment_analysis/bert-base-chinese/*.ot filter=lfs diff=lfs merge=lfs -text
 sentiment_analysis/bert-base-chinese/*.onnx filter=lfs diff=lfs merge=lfs -text
 sentiment_analysis/bert-base-chinese/*.msgpack filter=lfs diff=lfs merge=lfs -text
-
-
-
-
-
-
 text_cls/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
 text_cls/bert-base-chinese/*.lfs filter=lfs diff=lfs merge=lfs -text
 text_cls/bert-base-chinese/*.bin filter=lfs diff=lfs merge=lfs -text
@@ -59,10 +48,6 @@ text_cls/bert-base-chinese/*.tar.gz filter=lfs diff=lfs merge=lfs -text
 text_cls/bert-base-chinese/*.ot filter=lfs diff=lfs merge=lfs -text
 text_cls/bert-base-chinese/*.onnx filter=lfs diff=lfs merge=lfs -text
 text_cls/bert-base-chinese/*.msgpack filter=lfs diff=lfs merge=lfs -text
-
-
-
-gen_ads/model/*.pth filter=lfs diff=lfs merge=lfs -text
 
 
 
